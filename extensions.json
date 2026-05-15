@@ -1,0 +1,9 @@
+{
+  "repos": [
+    {
+      "id": "bitcoinswitch",
+      "organisation": "brendio",
+      "repository": "bitcoinswitch_extension"
+    }
+  ]
+}
